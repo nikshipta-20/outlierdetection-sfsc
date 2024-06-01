@@ -25,6 +25,7 @@ Note: The k value is taken as 3 for simplification
 
 
 The following is the algorithm for spectral basedoutlier detection.
+![od sfsc](https://github.com/nikshipta-20/outlierdetection-sfsc/assets/122418060/41c51038-cda6-4410-a089-7decd1b314ac)
 
 
 ## The following plots are the results of the outlier detection using SC algorithm
